@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="amethyst_color_name">Amethyst</string>
+    <string name="bundle_name_amethyst">@string/amethyst_color_name</string>
+    <string name="bowenite_color_name">Bowenite</string>
+    <string name="bundle_name_bowenite">@string/bowenite_color_name</string>
+    <string name="cobaltocalcite_color_name">Cobalto Calcite</string>
+    <string name="bundle_name_cobaltocalcite">@string/cobaltocalcite_color_name</string>
+    <string name="dumortierite_color_name">Dumortierite</string>
+    <string name="bundle_name_dumortierite">@string/dumortierite_color_name</string>
+    <string name="emerald_color_name">Emerald</string>
+    <string name="bundle_name_emerald">@string/emerald_color_name</string>
+    <string name="fluorite_color_name">Fluorite</string>
+    <string name="bundle_name_fluorite">@string/fluorite_color_name</string>
+</resources>

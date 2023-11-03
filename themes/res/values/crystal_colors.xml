@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color section -->
+    <color name="color_primary_amethyst">#522B8A</color>
+    <color name="color_secondary_amethyst">#522B8A</color>
+    <color name="color_primary_bowenite">#9FA868</color>
+    <color name="color_secondary_bowenite">#9FA868</color>
+    <color name="color_primary_cobaltocalcite">#D193BC</color>
+    <color name="color_secondary_cobaltocalcite">#D193BC</color>
+    <color name="color_primary_dumortierite">#7B98DE</color>
+    <color name="color_secondary_dumortierite">#7B98DE</color>
+    <color name="color_primary_emerald">#09B746</color>
+    <color name="color_secondary_emerald">#09B746</color>
+    <color name="color_primary_fluorite">#9AF1FD</color>
+    <color name="color_secondary_fluorite">#9AF1FD</color>
+</resources>
